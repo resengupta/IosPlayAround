@@ -1,0 +1,94 @@
+{
+  "type": "DepartmentStore",
+  "version": "Schema Draft Version 0.99",
+  "categories": {
+    "furniture": [
+      {
+        "name": "Glass Coffee table",
+        "description": "An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in.",
+        "brand": "geo",
+        "image_url":"http://www.fiestafurniture.co.uk/images/products/prod_2960/Oak%20Round%20Table%20Top%201000mm%20x%2025mm.jpg",
+        "price": "12930.00"
+      },
+      {
+        "name": "Arm Chair",
+        "description": "An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in.",
+        "brand": "brand2",
+        "image_url":"http://www.fiestafurniture.co.uk/images/products/prod_2960/Oak%20Round%20Table%20Top%201000mm%20x%2025mm.jpg",
+        "price": "1700.08"
+      },
+      {
+        "name": "Wooden Bed Side Table",
+        "description": "An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in.",
+        "brand": "geo",
+        "image_url":"http://www.fiestafurniture.co.uk/images/products/prod_2960/Oak%20Round%20Table%20Top%201000mm%20x%2025mm.jpg",
+        "price": "3200.00"
+      },
+      {
+        "name": "Round Coffee Table",
+        "description": "An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in.",
+        "brand": "Omni",
+        "image_url":"http://www.fiestafurniture.co.uk/images/products/prod_2960/Oak%20Round%20Table%20Top%201000mm%20x%2025mm.jpg",
+        "price": "5399.00"
+      },
+      {
+        "name": "End Table",
+        "description": "An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in.",
+        "brand": "geo",
+        "image_url":"http://www.fiestafurniture.co.uk/images/products/prod_2960/Oak%20Round%20Table%20Top%201000mm%20x%2025mm.jpg",
+        "price": "1200.04"
+      }
+    ],
+    "Electronics": [
+      {
+        "name": "Apple iPhone 5S",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.00"
+      },
+      {
+        "name": "Apple iPhone weqweqwe",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.00"
+      },
+      {
+        "name": "Apple iPhone 5Sm weqw",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.00"
+      },
+      {
+        "name": "Apple iPhone 5S wqq",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.00"
+      },
+      {
+        "name": "Apple iPhone 5S33",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.45"
+      },
+      {
+        "name": "Apple iPhone 5Sww222",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.00"
+      },
+      {
+        "name": "Apple iPhone 5S444444",
+        "description": "Full HD Recording, iOS 7, 8 MP iSight Camera, FaceTime HD Camera",
+        "brand": "Apple",
+        "image_url":"http://drop.ndtv.com/TECH/product_database/images/918201370949PM_635_iPhone-5s.jpeg",
+        "price": "57000.00"
+      }
+    ]
+  }
+}
